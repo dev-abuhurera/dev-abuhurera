@@ -22,7 +22,7 @@
 
 ### ⚡ GitHub Analytics
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; gap: 20px; flex-wrap: wrap;">
+<div style="display: inline-flex; justify-content: space-between; align-items: flex-start; padding: 20px; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left Side: Vertical Stack -->
   <div style="display: flex; flex-direction: column; gap: 20px; max-width: 60%;">
