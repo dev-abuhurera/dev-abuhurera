@@ -18,6 +18,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
+
 ### ⚡ GitHub Analytics
 
 <div align="center">
@@ -30,7 +32,7 @@
   <!-- Animated Language Graph -->
   <a href="https://github.com/dev-abuhurera">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-abuhurera&theme=radical&utcOffset=8" alt="Coding Time" />
+    
   </a>
   
   <!-- 3D Contribution Graph -->
