@@ -2,9 +2,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-abuhurera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="300" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dev-abuhurera&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-abuhurera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -57,5 +60,3 @@
 <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg" alt="Snake animation" />
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
