@@ -68,7 +68,7 @@
 <div align="center">
   
   <!-- Glowing version alternative -->
-   <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/github-contribution-grid-snake-dark.svg" alt="Glowing snake" width="100%"/> 
+   <img src="https://github.com.com/dev-abuhurera/dev-abuhurera/github-contribution-grid-snake-dark.svg" alt="Glowing snake" width="100%"/> 
 </div>
 
 ### 📡 Connect With Me
