@@ -22,22 +22,62 @@
 
 ### ⚡ GitHub Analytics
 
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Stats" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; align-items: center;">
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Streak" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
-  
-  <!-- Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" style="width: 100%; max-width: 500px; margin-bottom: 20px;"/>
+  <!-- Left Column - Enhanced Stats Cards -->
+  <div style="flex: 1; min-width: 60%;">
+    <!-- Stats Card with Hover Effect -->
+    <a href="https://github.com/dev-abuhurera" style="text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true&custom_title=ABUHURERA'S+STATS&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" 
+           alt="Stats" 
+           style="width: 100%; border-radius: 15px; box-shadow: 0 4px 15px rgba(125, 64, 255, 0.3); margin-bottom: 15px; transition: transform 0.3s ease;"
+           onmouseover="this.style.transform='scale(1.02)'"
+           onmouseout="this.style.transform='scale(1)'"/>
+    </a>
+    
+  Streak Stats with Glow 
+    <a href="https://github.com/dev-abuhurera" style="text-decoration: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9"
+           alt="Streak" 
+           style="width: 100%; border-radius: 15px; box-shadow: 0 4px 15px rgba(125, 64, 255, 0.3); margin-bottom: 15px; filter: drop-shadow(0 0 5px rgba(189, 147, 249, 0.5));"/>
+    </a>
+    
+   Language Stats with Custom Layout 
+    <a href="https://github.com/dev-abuhurera" style="text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=6&title_color=ff79c6&text_color=f8f8f2&hide=html,css,scss"
+           alt="Top Languages" 
+           style="width: 100%; border-radius: 15px; box-shadow: 0 4px 15px rgba(125, 64, 255, 0.3);"/>
+    </a>
+  </div>
 
-  <!-- Animated GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" style="width: 100%; max-width: 400px; margin-bottom: 20px; border-radius: 10px;"/>
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
+Right Column - Animated GIF with Floating Effect 
+  <div style="flex: 1; min-width: 35%; display: flex; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
+         alt="Coding Animation" 
+         style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 8px 25px rgba(125, 64, 255, 0.4); animation: float 6s ease-in-out infinite;"
+         onmouseover="this.style.animation='none'"
+         onmouseout="this.style.animation='float 6s ease-in-out infinite'"/>
+  </div>
 </div>
+
+ Contribution Graph with Glow Effect 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff&color=bd93f9&line=ff79c6"
+       width="100%" 
+       alt="Contribution Graph"
+       style="border-radius: 15px; box-shadow: 0 8px 25px rgba(125, 64, 255, 0.3);"/>
+</div>
+
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
+
+
+
 ### 🎯 Current Focus
 
 <!-- RGB Animated Cards -->
