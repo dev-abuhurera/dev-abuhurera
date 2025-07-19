@@ -67,7 +67,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg"/>
