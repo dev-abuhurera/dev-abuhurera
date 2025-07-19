@@ -22,45 +22,27 @@
 
 ### ⚡ GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-start;">
-
-  <!-- Stats Column - Compact Design -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <!-- Compact Stats Card -->
-    <a href="https://github.com/dev-abuhurera" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true&custom_title=MY+STATS&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_rank=true"
-           style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(125, 64, 255, 0.3); transition: all 0.3s ease;"
-           onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 12px rgba(125, 64, 255, 0.4)'"
-           onmouseout="this.style.transform='none'; this.style.boxShadow='0 4px 8px rgba(125, 64, 255, 0.3)'"/>
-    </a>
-
-  Compact Streak Stats 
-    <a href="https://github.com/dev-abuhurera" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9&hide_total_contributions=true"
-           style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(125, 64, 255, 0.3);"/>
-    </a>
-
-  Compact Language Stats 
-    <a href="https://github.com/dev-abuhurera" style="text-decoration: none; display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=5&title_color=ff79c6&text_color=f8f8f2&hide=html,css,scss&size_weight=0.5&count_weight=0.5"
-           style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(125, 64, 255, 0.3);"/>
-    </a>
-  </div>
-
-  <!-- GIF Column - Perfectly Aligned -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
-         style="width: 100%; max-width: 350px; border-radius: 10px; box-shadow: 0 4px 15px rgba(125, 64, 255, 0.3);"/>
-  </div>
+<div align="center">
+  <!-- 3D Stats Card with RGB Border -->
+  <a href="https://github.com/dev-abuhurera">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Dev-Abuhurera's streak" />
+  </a>
+  
+  <!-- Animated Language Graph -->
+  <a href="https://github.com/dev-abuhurera">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+    
+  </a>
+  
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
 </div>
 
-<!-- Compact Contribution Graph -->
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff&color=bd93f9&line=ff79c6&height=300"
-       style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(125, 64, 255, 0.3);"/>
-</div>
+ok that's done now i want to align these three images one over the other and along side these three i want to add a gif 
+https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
 
-
+---
 
 ### 🎯 Current Focus
 
