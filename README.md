@@ -66,7 +66,6 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  
 <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake-light.svg" width="100%" alt="GitHub Contribution Snake Light"/>
 </div>
 
