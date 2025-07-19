@@ -66,7 +66,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="![Sexy Snake](https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg)"/>
+<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg"/>
 </div>
 
 ### 📡 Connect With Me
