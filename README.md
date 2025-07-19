@@ -67,7 +67,7 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/dist/snake-light.svg" width="100%" alt="GitHub Contribution Snake Light"/>
+<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake-light.svg" width="100%" alt="GitHub Contribution Snake Light"/>
 </div>
 
 ### 📡 Connect With Me
