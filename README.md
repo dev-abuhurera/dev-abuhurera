@@ -21,8 +21,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
 ### ⚡ GitHub Analytics
 <!-- Parent Container -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; gap: 20px; flex-wrap: wrap;">
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; gap: 20px; flex-wrap: wrap; width: 50%">
   <!-- Left Side: Vertical Stack -->
   <div style="display: flex; flex-direction: column; gap: 20px; max-width: 30%;">
     <a href="https://github.com/dev-abuhurera">
@@ -35,12 +34,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" /> 
     </a>
   </div>
-
-  <!-- Right Side: GIF -->
-  <div style="max-width: 35%;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 50%; height: auto; display: inline-flex; " alt="Animated GIF"/>
-  </div>
-
+  
 </div>
 
 ---
