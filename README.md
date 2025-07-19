@@ -77,16 +77,16 @@
 
 <div align="center">
   <!-- RGB Animated Social Badges -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117" onmouseover="this.style.backgroundColor='#0A66C2'" onmouseout="this.style.backgroundColor='#0D1117'" />
   </a>
-  <a href="mailto:abuhurerarchani@gmail.com">
+  <a href="abuhurerarohani@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0D1117" onmouseover="this.style.backgroundColor='#EA4335'" onmouseout="this.style.backgroundColor='#0D1117'" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/R39595Rohani?t=9wQKYTZYSqqacIHa9O4anA&s=09 " target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=0D1117" onmouseover="this.style.backgroundColor='#1DA1F2'" onmouseout="this.style.backgroundColor='#0D1117'" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://abuhurera-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117&color=0D1117" onmouseover="this.style.backgroundColor='#FF4088'" onmouseout="this.style.backgroundColor='#0D1117'" />
   </a>
 </div>
