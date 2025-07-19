@@ -48,8 +48,6 @@
       <h3 align="center">🚀 Active Projects</h3> 
       <ul>
         <li><b>Project X</b> - Modern e-commerce platform</li>
-        <li><b>DevTools AI</b> - AI-powered debugging</li>
-        <li><b>OpenSource</b> - Contributing to Next.js</li>
       </ul>
     </td>
     <td width="50%">
