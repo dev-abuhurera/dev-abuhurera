@@ -22,32 +22,22 @@
 
 ### ⚡ GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <!-- Left Column - Stats Cards -->
-  <div style="flex: 1; min-width: 300px;">
-    <!-- Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Stats" style="width: 100%; margin-bottom: 10px;"/>
-    
-   Streak Stats 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Streak" style="width: 100%; margin-bottom: 10px;"/>
-    
-  Language Stats 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" style="width: 100%;"/>
-  </div>
-
-  <!-- Right Column - Animated GIF -->
-  <div style="flex: 1; min-width: 300px; display: flex; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" style="width: 100%; max-width: 400px; border-radius: 10px;"/>
-  </div>
-</div>
-
-<!-- Contribution Graph (Full Width Below) -->
 <div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Stats" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Streak" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
+  
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" style="width: 100%; max-width: 500px; margin-bottom: 20px;"/>
+
+  <!-- Animated GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" style="width: 100%; max-width: 400px; margin-bottom: 20px; border-radius: 10px;"/>
+
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
 </div>
-
----
-
 ### 🎯 Current Focus
 
 <!-- RGB Animated Cards -->
