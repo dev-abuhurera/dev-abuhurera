@@ -43,14 +43,6 @@
     </div>
   </div>
 
-  <!-- Right Column: Empty for now (you can put your profile image or anything else here) -->
- <div style="flex: 1; position: relative; display: flex; justify-content: center; align-items: center; top: 10px; right: 20px; bottom: 10px; left: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-       style="width: 50%; max-width: 300px; height: auto;" 
-       alt="Animated GIF"/>
-</div>
-</div>
-
 ---
 
 ### 🎯 Current Focus
