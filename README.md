@@ -31,12 +31,13 @@
   
   <!-- Animated Language Graph -->
   <a href="https://github.com/dev-abuhurera">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-    
+    <img width="60%" position center src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" /> 
   </a>
   
   <!-- 3D Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
 
 ok that's done now i want to align these three images one over the other and along side these three i want to add a gif 
