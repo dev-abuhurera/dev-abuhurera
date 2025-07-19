@@ -1,40 +1,52 @@
-name: Generate Snake Animation
+name: Generate Sexy Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours at minute 0 (more reliable timing)
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:         # Allows manual triggering
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   generate-snake:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10  # Increased timeout
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animations
+        uses: Platane/snk@v2  # Using main action instead of svg-only
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            snake.svg?palette=github-dark&snake_color=00f2fe&dot_color=ff00ff&glow=true&ripple=true
-            snake.svg?palette=github-dark&snake_color=ffd700&dot_color=ffffff&sparkle=true
-  
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Helps avoid rate limits
+          svg_out_path: dist/snake.svg
+          png_out_path: dist/snake.png
+          color_snake: "ff79c6"  # Hot pink snake
+          color_dots: "bd93f9"   # Lavender dots
+          color_empty: "282a36"   # Dark background
+          color_border: "ffffff20" # Semi-transparent border
+          effects: "glow,wave"   # Multiple effects
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate alternative version
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/snake-gold.svg
+          color_snake: "ffd700"  # Gold snake
+          color_dots: "ffffff"   # White dots
+          color_empty: "1a1a1a"   # Black background
+          effects: "sparkle"
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_files: false  # Clean old files
-          force_orphan: true  # Keep history clean
+          keep_files: false
+          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
