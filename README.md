@@ -19,42 +19,29 @@
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
-
 ### ⚡ GitHub Analytics
 
-<!-- Parent Container: Inline Layout -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; justify-content: center; width: 100%;">
+<!-- Parent Container: Handles layout -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; gap: 40px;">
 
-  <!-- Left Side: GitHub Stats (3 Separate Divs) -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <!-- Stats Card -->
-    <div style="margin-bottom: 20px;">
-      <a href="https://github.com/dev-abuhurera">
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 400px;"/>
-      </a>
-    </div>
-    
-    <!-- Streak Card -->
-    <div style="margin-bottom: 20px;">
-      <a href="https://github.com/dev-abuhurera">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Streak Stats" style="width: 100%; max-width: 400px;"/>
-      </a>
-    </div>
-    
-    <!-- Top Languages Card -->
+  <!-- Left Column: Each image in its own div (stacked vertically) -->
+  <div style="display: flex; flex-direction: column; gap: 20px; max-width: 55%;">
     <div>
       <a href="https://github.com/dev-abuhurera">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" style="width: 100%; max-width: 400px;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" />
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/dev-abuhurera">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Dev-Abuhurera's streak" />
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/dev-abuhurera">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" />
       </a>
     </div>
   </div>
-
-  <!-- Right Side: New Image (Adjust width as needed) -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px; display: flex; justify-content: center;">
-    <img src="https://example.com/your-image-url.png" alt="Your Custom Image" style="width: 100%; max-width: 400px; border-radius: 10px; border: 2px solid #7d40ff;"/>
-  </div>
-
-</div>
 
 ---
 
@@ -81,11 +68,13 @@
 ---
 
 ### 🐍 Contribution 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg"/>
 </div>
 
 ### 📡 Connect With Me
+
 <div align="center">
   <!-- RGB Animated Social Badges -->
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
@@ -94,7 +83,7 @@
   <a href="abuhurerarohani@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0D1117" onmouseover="this.style.backgroundColor='#EA4335'" onmouseout="this.style.backgroundColor='#0D1117'" />
   </a>
-  <a href="https://x.com/R39595Rohani?t=9wQKYTZYSqqacIHa9O4anA&s=09" target="_blank">
+  <a href="https://x.com/R39595Rohani?t=9wQKYTZYSqqacIHa9O4anA&s=09 " target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=0D1117" onmouseover="this.style.backgroundColor='#1DA1F2'" onmouseout="this.style.backgroundColor='#0D1117'" />
   </a>
   <a href="https://abuhurera-portfolio.netlify.app/" target="_blank">
