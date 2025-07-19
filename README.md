@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/snake.yml" alt="Snake animation" />
 
 ###
