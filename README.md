@@ -63,19 +63,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-<div align="center">
-  <!-- Project Cards with RGB Hover -->
-  <a href="https://github.com/dev-abuhurera/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-abuhurera&repo=project1&theme=radical&border_color=7d40ff&bg_color=0D1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/dev-abuhurera/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-abuhurera&repo=project2&theme=radical&border_color=7d40ff&bg_color=0D1117" alt="Project 2" />
-  </a>
-</div>
-
----
 
 ### 📡 Connect With Me
 
