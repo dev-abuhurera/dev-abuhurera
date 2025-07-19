@@ -29,11 +29,9 @@
     <a href="https://github.com/dev-abuhurera">
       <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" />
     </a>
-
     <a href="https://github.com/dev-abuhurera">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Dev-Abuhurera's streak" />
     </a>
-
     <a href="https://github.com/dev-abuhurera">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" /> 
     </a>
