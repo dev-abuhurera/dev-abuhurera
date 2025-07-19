@@ -20,9 +20,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
 ### ⚡ GitHub Analytics
+### ⚡ GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: flex; flex-direction: column; gap: 20px; flex: 1 1 auto; min-width: 280px; max-width: 45%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 auto; min-width: 250px; max-width: 350px;">
         <a href="https://github.com/dev-abuhurera">
             <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" style="width: 100%; height: auto;"/>
         </a>
@@ -33,15 +34,15 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" style="width: 100%; height: auto;"/>
         </a>
     </div>
-    <div style="flex: 1 1 auto; min-width: 280px; max-width: 45%; display: flex; align-items: center; justify-content: center;">
+    <div style="flex: 1 1 auto; min-width: 250px; max-width: 350px; display: flex; align-items: center; justify-content: center;">
         <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 100%; height: auto;"/>
     </div>
+
 </div>
 
 <div align="center" style="margin-top: 30px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
 </div>
-
 
 ---
 
