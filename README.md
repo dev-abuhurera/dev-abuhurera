@@ -1,64 +1,96 @@
-<h1 align="center">👋 Hi, I'm Muhammad Abuhurera</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
+</h1>
 
-###
+<h3 align="center">Building scalable solutions with JavaScript, React, and Node.js</h3>
 
-<br clear="both">
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dev-abuhurera&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-abuhurera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=nord&bg_color=black&custom_title=Contribution%20Graph&hide_border=true&hide_title=false&area=false" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dev-abuhurera&theme=nord&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="Languages" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,vue,html,css,tailwind,redux" alt="Frontend" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask" alt="Backend" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases" />
+  <br/>
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx" alt="DevOps" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Tools" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+### 📊 GitHub Analytics
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=vue-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=vue-dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=dev-abuhurera&theme=nord&column=7" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+### 🚀 Current Projects
+
+- **[Project Name]** - Short description (1 sentence) 🔗 [Live Demo]() | [Code]()
+- **[Project Name]** - Short description (1 sentence) 🔗 [Live Demo]() | [Code]()
+- **[Open-Source Contribution]** - Brief mention of notable contributions
+
+---
+
+### 🌱 Learning Goals for 2024
+
+- Mastering **Microservices Architecture**
+- Exploring **Web3 Development**
+- Improving **System Design** skills
+- Contributing to **5+ open-source projects**
+
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing React Performance in 2024](https://yourblog.com/link)
+- [The Complete Guide to JWT Authentication](https://yourblog.com/link)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abuhurerarchani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=Profile%20views&color=0e75b6&style=flat" alt="dev-abuhurera" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-abuhurera.dev-abuhurera" alt="visitors" />
+</p>
 
-<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg" alt="Snake animation" />
+</div>
