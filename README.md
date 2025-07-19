@@ -5,9 +5,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="300" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dev-abuhurera&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-abuhurera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dev-abuhurera&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-abuhurera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=nord&bg_color=black&custom_title=Contribution%20Graph&hide_border=true&hide_title=false&area=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dev-abuhurera&theme=nord&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -57,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg" alt="Snake animation" />
 
 ###
