@@ -22,7 +22,7 @@
 
 ### ⚡ GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; padding: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left Side: Vertical Stack -->
   <div style="display: flex; flex-direction: column; gap: 20px; max-width: 60%;">
@@ -39,7 +39,7 @@
 
   <!-- Right Side: GIF -->
   <div style="max-width: 35%;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="GIF" style="width: 50%; border-radius: 10px;" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 50%; height: auto;" alt="Animated GIF"/>
   </div>
 
 </div>
