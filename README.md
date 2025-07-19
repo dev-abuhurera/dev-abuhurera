@@ -22,23 +22,35 @@
 
 ### ⚡ GitHub Analytics
 
-<div align="center" >
-  <!-- 3D Stats Card with RGB Border -->
-  <a href="https://github.com/dev-abuhurera">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Dev-Abuhurera's streak" />
-  </a>
-  
-  <!-- Animated Language Graph -->
-  <a href="https://github.com/dev-abuhurera">
-    <img width="60%" position center src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" /> 
-  </a>
-  
-  <!-- 3D Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; padding: 20px; flex-wrap: wrap;">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+  <!-- Left Side: Vertical Stack -->
+  <div style="display: flex; flex-direction: column; gap: 20px; max-width: 60%;">
+    <a href="https://github.com/dev-abuhurera">
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" />
+    </a>
+
+    <a href="https://github.com/dev-abuhurera">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" alt="Dev-Abuhurera's streak" />
+    </a>
+
+    <a href="https://github.com/dev-abuhurera">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" /> 
+    </a>
+  </div>
+
+  <!-- Right Side: GIF -->
+  <div style="max-width: 35%;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="GIF" style="width: 100%; border-radius: 10px;" />
+  </div>
+
 </div>
+
+<!-- Full Width Contribution Graph Below -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abuhurera&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=7d40ff&area_color=7d40ff" width="100%" alt="Contribution Graph"/>
+</div>
+
 
 ---
 
