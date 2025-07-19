@@ -53,7 +53,7 @@
     <td width="50%">
       <h3 align="center">🚀 Active Projects</h3> 
       <ul>
-        <li><b>Project X</b> - Modern e-commerce platform</li>
+        <li>Modern e-commerce platform</li>
       </ul>
     </td>
     <td width="50%">
