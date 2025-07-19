@@ -53,9 +53,7 @@
     <td width="50%">
       <h3 align="center">🌱 Learning</h3>
       <ul>
-        <li>Web3 & Blockchain</li>
-        <li>Microservices</li>
-        <li>Advanced TypeScript</li>
+        <li>Mastering Front-End</li>
       </ul>
     </td>
   </tr>
