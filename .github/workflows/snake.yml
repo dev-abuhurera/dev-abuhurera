@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&snake_color=ff5555&dot_color=f8f8f2&wave=true&glow=true
-            dist/snake-light.svg?palette=github-dark
+            dist/snake.svg?palette=github-dark&snake_color=ffb86c&dot_color=ff5555&sparkle=true
+            dist/snake-light.svg?palette=dark&glow=true
   
           github_token: ${{ secrets.GITHUB_TOKEN }}  # Helps avoid rate limits
 
