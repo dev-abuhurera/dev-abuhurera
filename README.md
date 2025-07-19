@@ -25,7 +25,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left Side: Vertical Stack -->
-  <div style="display: block; flex-direction: column; gap: 20px; max-width: 60%;">
+  <div style="display: block; flex-direction: column; gap: 20px; max-width: 40%;">
     <a href="https://github.com/dev-abuhurera">
       <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" />
     </a>
