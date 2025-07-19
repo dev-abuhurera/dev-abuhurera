@@ -25,7 +25,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?palette=merko&snake_color=ff79c6&dot_color=bd93f9
-            dist/snake-light.svg?palette=github-light
+            dist/snake-light.svg?palette=github-dark
+            
           github_token: ${{ secrets.GITHUB_TOKEN }}  # Helps avoid rate limits
 
       - name: Deploy to output branch
