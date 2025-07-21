@@ -11,8 +11,8 @@
 
 <div align="center">
   <!-- RGB Animated Tech Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&perline=8" onmouseover="this.src='https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&theme=light&perline=8'" onmouseout="this.src='https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&perline=8'" alt="Tech Stack" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&perline=8" onmouseover="this.src='https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&theme=light&perline=8'" onmouseout="this.src='https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&perline=8'" alt="Tech Stack" />
   </a>
 </div>
 
@@ -25,7 +25,6 @@
 <!-- Parent Container: Handles layout -->
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%; gap: 40px;">
 
-  <!-- Left Column: GitHub Stats -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
     <div>
       <a href="https://github.com/dev-abuhurera">
