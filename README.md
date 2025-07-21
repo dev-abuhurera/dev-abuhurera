@@ -26,6 +26,7 @@
   <tr>
     <td valign="top" width="70%">
       <a href="https://github.com/dev-abuhurera">
+        <br><br>
         <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" width="100%"/>
       </a><br>
       <a href="https://github.com/dev-abuhurera">
@@ -37,7 +38,7 @@
     </td>
     <td valign="top" width="30%">
       &nbsp;&nbsp;&nbsp;
-      <br><br><br><br><br><br><br>
+      <br><br><br><br><br><br>
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" style="max-width: 100%;display: inline-block;padding-top: 150px; " data-target="animated-image.originalImage"/>
     </td>
   </tr>
