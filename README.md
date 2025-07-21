@@ -22,7 +22,7 @@
 ⚡ GitHub Analytics
 
 <!-- Parent Container: Handles layout -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; gap: 40px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 50%; gap: 40px;">
 
   <!-- Left Column: Each image in its own div (stacked vertically) -->
   <div style="display: flex; flex-direction: column; gap: 20px; max-width: 55%;">
