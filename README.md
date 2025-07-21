@@ -7,7 +7,7 @@
 <!-- RGB Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
 
-### 🔥 Tech Stack
+🔥 Tech Stack
 
 <div align="center">
   <!-- RGB Animated Tech Icons -->
@@ -19,7 +19,7 @@
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
-### ⚡ GitHub Analytics
+⚡ GitHub Analytics
 
 <!-- Parent Container: Handles layout -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; gap: 40px;">
@@ -45,7 +45,7 @@
 
 ---
 
-### 🎯 Current Focus
+🎯 Current Focus
 
 <!-- RGB Animated Cards -->
 <table align="center">
@@ -67,13 +67,13 @@
 
 ---
 
-### 🐍 Contribution 
+🐍 Contribution 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg"/>
 </div>
 
-### 📡 Connect With Me
+📡 Connect With Me
 
 <div align="center">
   <!-- RGB Animated Social Badges -->
