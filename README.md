@@ -21,9 +21,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%"/>
 ⚡ GitHub Analytics
 
-<table>
+
+<table style="border-collapse:collapse; border:none; width:100%;">
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="70%" style="border:none;">
       <a href="https://github.com/dev-abuhurera">
         <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&show_icons=true&theme=radical&border_color=7d40ff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Dev-Abuhurera's stats" width="100%"/>
       </a><br>
@@ -34,12 +35,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" alt="Top Languages" width="100%"/>
       </a>
     </td>
-    <td valign="top" width="30%">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120"/>
+    <td valign="top" width="30%" style="border:none; padding-left:32px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="160"/>
     </td>
   </tr>
 </table>
-
 
 
 ---
