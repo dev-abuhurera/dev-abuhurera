@@ -23,7 +23,7 @@
 
 
 <!-- Parent Container: Handles layout -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; width: 100%; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%; gap: 40px;">
 
   <!-- Left Column: GitHub Stats -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
