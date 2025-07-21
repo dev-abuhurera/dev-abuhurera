@@ -39,7 +39,7 @@
     <td valign="top" width="30%">
       &nbsp;&nbsp;&nbsp;
       <br><br><br><br><br><br>
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" style="max-width: 100%;display: inline-block;padding-top: 150px; " data-target="animated-image.originalImage"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" style="max-width: 100%;display: inline-block;padding-top: 150px; " data-target="animated-image.originalImage"/>
     </td>
   </tr>
 </table>
