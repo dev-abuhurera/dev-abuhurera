@@ -63,6 +63,7 @@
       <h3 align="center">🌱 Learning</h3>
       <ul>
         <li>Mastering Front-End</li>
+        <li>Exploring Backend </li>
       </ul>
     </td>
   </tr>
