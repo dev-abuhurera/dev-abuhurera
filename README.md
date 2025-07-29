@@ -56,6 +56,7 @@
       <h3 align="center">🚀 Active Projects</h3> 
       <ul>
         <li>Modern e-commerce platform</li>
+        <li>Spotify-Clone</li>
       </ul>
     </td>
     <td width="50%">
