@@ -40,8 +40,8 @@
     <td align="center" width="50%">
       <h4>🚀 Projects</h4>
       <ul align="left">
-        <li>Modern E-Commerce Platform</li>
-        <li>Spotify Clone</li>
+        <li>Buisnes website for Eden Axis</li>
+        <li>Working on the advanced Javascript concepts</li>
       </ul>
     </td>
     <td align="center" width="50%">
