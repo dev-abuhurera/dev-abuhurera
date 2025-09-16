@@ -47,7 +47,7 @@
     <td align="center" width="50%">
       <h4>🌱 Learning</h4>
       <ul align="left">
-        <li>Mastering Front-End</li>
+        <li>Learning Mern Stack</li>
         <li>Exploring Backend Architecture</li>
       </ul>
     </td>
