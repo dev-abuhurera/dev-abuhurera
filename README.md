@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Building Scalable Apps | 🌟 Tech Enthusiast | 🚀 AI Learner</h3>
+<h3 align="center">💻 Software Engineer | 🌟 Tech Enthusiast | 🚀 AI Learner</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%" />
