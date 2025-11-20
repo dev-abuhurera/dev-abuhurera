@@ -49,6 +49,7 @@
       <ul align="left">
         <li>Learning Mern Stack</li>
         <li>Exploring Backend Architecture</li>
+        <li>Problem Solving Challenge</li>
       </ul>
     </td>
   </tr>
