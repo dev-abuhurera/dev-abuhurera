@@ -3,7 +3,7 @@ name: Generate Sexy Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:         # Allows manual triggering
+  workflow_dispatch:
   push:
     branches: [ output ]
 
@@ -18,35 +18,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install snk locally
+        run: |
+          npm install -g @platane/snk
+
       - name: Generate snake animations
-        uses: Platane/snk@v2  # Using main action instead of svg-only
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/snake.svg
-          png_out_path: dist/snake.png
-          color_snake: "ff79c6"  # Hot pink snake
-          color_dots: "bd93f9"   # Lavender dots
-          color_empty: "282a36"   # Dark background
-          color_border: "ffffff20" # Semi-transparent border
-          effects: "glow,wave"   # Multiple effects
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Light hot-pink snake
+          snk generate \
+            --user ${{ github.repository_owner }} \
+            --out dist/snake.svg \
+            --format svg \
+            --color-snake "#ff79c6" \
+            --color-dots "#bd93f9" \
+            --color-empty "#282a36" \
+            --color-border "#ffffff20" \
+            --effects glow,wave
 
-      - name: Generate alternative version
-        uses: Platane/snk@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/snake-gold.svg
-          color_snake: "ffd700"  # Gold snake
-          color_dots: "ffffff"   # White dots
-          color_empty: "1a1a1a"   # Black background
-          effects: "sparkle"
+          # Gold snake
+          snk generate \
+            --user ${{ github.repository_owner }} \
+            --out dist/snake-gold.svg \
+            --format svg \
+            --color-snake "#ffd700" \
+            --color-dots "#ffffff" \
+            --color-empty "#1a1a1a" \
+            --effects sparkle
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_files: false
-          force_orphan: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push output
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/*
+          git commit -m "Update snake contributions" || echo "No changes to commit"
+          git push origin HEAD:output
