@@ -60,14 +60,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="dist/snake-gold.svg" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg" />
-    <!-- Fallback -->
-    <img alt="GitHub Snake" src="dist/snake.svg" />
-  </picture>
+  <img alt="GitHub Snake" src="dist/snake.svg" />
 </p>
 
 
