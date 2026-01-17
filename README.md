@@ -60,7 +60,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="Sexy GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/dist/snake.yml" />
+  <img alt="Sexy GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/workflows/snake.yml" />
 </p>
 
 
