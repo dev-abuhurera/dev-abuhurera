@@ -60,7 +60,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-abuhurera/dev-abuhurera/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/<your-username>/snk/master/snk.svg?user=dev-abuhurera" />
+
 </p>
 
 ---
