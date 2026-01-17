@@ -26,8 +26,12 @@ jobs:
       - name: Install snk locally
         run: |
           npm install -g @platane/snk
+          
+           
 
       - name: Generate snake animations
+        env:
+             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           # Light hot-pink snake
           snk generate \
