@@ -60,8 +60,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-abuhurera/snk/master/snk.svg?user=dev-abuhurera" alt="Contribution Snake" />
+  <img src="https://platane.github.io/snk/?user=dev-abuhurera" alt="Contribution Snake" />
 </p>
+
 
 
 ---
