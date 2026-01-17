@@ -60,9 +60,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/snk/master/snk.svg?user=dev-abuhurera" />
-
+  <img src="https://raw.githubusercontent.com/dev-abuhurera/snk/master/snk.svg?user=dev-abuhurera" alt="Contribution Snake" />
 </p>
+
 
 ---
 
