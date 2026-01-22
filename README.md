@@ -79,7 +79,7 @@
   <a href="https://x.com/R39595Rohani" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://abuhurera-portfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio-tau-dun-qoaquy38wo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
