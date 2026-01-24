@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="160" />
+    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&v=2" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-streak-stats-custom-kddt9q8up.vercel.app/?user=dev-abuhurera&theme=tokyonight" height="160" />
+    <img src="https://github-readme-streak-stats-custom-kddt9q8up.vercel.app/?theme=tokyonight&user=dev-abuhurera&v=2" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=tokyonight&langs_count=8" height="160" />
+    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=tokyonight&langs_count=8&v=2" height="160" />
   </a>
 </p>
 
