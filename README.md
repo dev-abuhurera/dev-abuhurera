@@ -24,16 +24,15 @@
 
 <p align="center">
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-abuhurera&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" height="160" />
+    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-streak-stats-custom-kddt9q8up.vercel.app/?user=dev-abuhurera&theme=synthwave" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=synthwave&langs_count=8" height="160" />
+    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=synthwave&langs_count=8" height="160" />
   </a>
 </p>
-
 ---
 
 ## 🎯 Currently Working On
