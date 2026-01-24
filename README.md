@@ -22,14 +22,15 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/dev-abuhurera">
-    <img src=" https://github-readme-stats-git-master-muhammad-abuhureras-projects.vercel.app/api?username=dev-abuhurera&theme=synthwave&show_icons=true />
+    <img src="https://github-readme-stats-git-master-muhammad-abuhureras-projects.vercel.app/api?username=dev-abuhurera&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=radical&border=7d40ff&background=0D1117" height="160" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=synthwave-84" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=radical&border_color=7d40ff&bg_color=0D1117&langs_count=8" height="160" />
+    <img src="https://github-readme-stats-git-master-muhammad-abuhureras-projects.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=synthwave&langs_count=8" height="160" />
   </a>
+</p>
 
 ---
 
