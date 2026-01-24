@@ -21,12 +21,13 @@
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-git-master-muhammad-abuhureras-projects.vercel.app/api?username=dev-abuhurera&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abuhurera&theme=synthwave-84" height="160" />
+    <img src="https://github-readme-streak-stats-jyv2da8ms.vercel.app/?user=dev-abuhurera&theme=synthwave-84" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-git-master-muhammad-abuhureras-projects.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=synthwave&langs_count=8" height="160" />
