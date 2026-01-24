@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&refresh=1" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-streak-stats-custom.vercel.app/?user=dev-abuhurera&theme=synthwave" height="160" />
+    <img src="https://github-readme-streak-stats-custom.vercel.app/?user=dev-abuhurera&theme=tokyonight" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-custom.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=synthwave&langs_count=8" height="160" />
