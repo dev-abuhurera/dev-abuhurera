@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats-custom.vercel.app/api?username=dev-abuhurera&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" height="160" />
+ <a href="https://github.com/dev-abuhurera">
+    <img src="https://github-readme-stats-custom.vercel.app/api?username=dev-abuhurera&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-streak-stats-custom.vercel.app/?user=dev-abuhurera&theme=synthwave" height="160" />
