@@ -27,6 +27,8 @@
   </a>
 </p>
 
+---
+
 ## 🎯 Currently Working On
 <table align="center">
   <tr>
@@ -50,27 +52,41 @@
 
 ---
 
-## 🏙️ GitCity — My GitHub as a City
+## 🏙️ My GitCity
+
+<!-- 
+  ========================================================
+  HOW TO ADD YOUR GITCITY CARD IMAGE:
+  
+  1. Go to: https://www.thegitcity.com/dev/dev-abuhurera
+  2. Click the "DOWNLOAD CARD" button
+  3. Save the image (e.g. gitcity-card.png)
+  4. Upload it to your GitHub repo:
+       - Go to your dev-abuhurera/dev-abuhurera repo
+       - Click "Add file" → "Upload files"
+       - Upload the image, name it: gitcity-card.png
+       - Commit it
+  5. Replace the placeholder below with your real image:
+  ========================================================
+-->
+
 <p align="center">
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
-    <img src="https://img.shields.io/badge/🏙️%20GitCity-Explore%20My%20City-5BCDEC?style=for-the-badge&logoColor=white" alt="GitCity Profile" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Every+commit+builds+my+city+🏗️;Visit+my+GitCity+to+see+my+GitHub+as+a+world!" alt="GitCity tagline" />
+    <img src="./gitcity-dev-abuhurera-landscape.png" alt="My GitCity Card" width="600" />
   </a>
 </p>
 
-> 🌆 **[Visit my GitCity →]([https://www.thegitcity.com/dev/dev-abuhurera](https://www.thegitcity.com/dev/dev-abuhurera))**
-> 
-> GitCity transforms GitHub activity into a living virtual city — every commit, repo, and contribution builds a new block!
+<p align="center">
+  <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
+    <img src="https://img.shields.io/badge/🏙️_VIEW_IN_CITY-B5F03A?style=for-the-badge&labelColor=111111&color=B5F03A" />
+  </a>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="Sexy GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
+  <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
 
 ---
@@ -90,7 +106,7 @@
     <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white" />
   </a>
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
-    <img src="https://img.shields.io/badge/🏙️-GitCity-5BCDEC?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏙️_GitCity-B5F03A?style=for-the-badge&labelColor=111111" />
   </a>
 </p>
 
