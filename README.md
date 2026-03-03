@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=B5F03A&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
 </h1>
-<h3 align="center">💻 Software Engineer | 🌟 Tech Enthusiast | 🚀 AI Learner</h3>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B5F03A&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Software+Engineer+%7C+%F0%9F%8C%9F+Tech+Enthusiast+%7C+%F0%9F%9A%80+AI+Learner" alt="Subtitle" />
+</h3>
 ---
 
 <p align="center">
