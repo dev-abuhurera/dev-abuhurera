@@ -11,14 +11,18 @@
     <img src="https://img.shields.io/badge/🏙️_VIEW_IN_CITY-B5F03A?style=for-the-badge&labelColor=111111&color=B5F03A" />
   </a>
 </p>
-## Tech Stack
+
+## <span style="color:#111111"> Tech Stack </span>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5" alt="Tech Stack" />
   </a>
 </p>
----
-## GitHub Stats
+
+
+## <span style="color:#111111"> GitHub Stats </span>
+
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&refresh=1" height="160" />
@@ -30,8 +34,9 @@
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=tokyonight&langs_count=8&refresh=1" height="160" />
   </a>
 </p>
----
-## Currently Working On
+
+## <span style="color:#111111"> Currently Working On </span>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -51,14 +56,17 @@
     </td>
   </tr>
 </table>
+
 ---
----
-## Contribution Snake
+
+## <span style="color:#111111"> Contribution Snake </span>
+
 <p align="center">
   <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
+
 ---
-## Connect With Me
+##  <span style="color:#111111"> Connect With Me </span>
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
