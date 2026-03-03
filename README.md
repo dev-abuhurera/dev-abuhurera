@@ -45,15 +45,15 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h4>🚀 Projects</h4>
+    <td align="center" width="50%" bgcolor="#131313">
+      <img src="https://img.shields.io/badge/🚀%20Projects-B5F03A?style=flat-square&color=B5F03A&labelColor=131313" />
       <ul align="left">
         <li>Buisnes website for Eden Axis</li>
         <li>Working on the advanced Javascript concepts</li>
       </ul>
     </td>
-    <td align="center" width="50%">
-      <h4>🌱 Learning</h4>
+    <td align="center" width="50%" bgcolor="#131313">
+      <img src="https://img.shields.io/badge/🌱%20Learning-B5F03A?style=flat-square&color=B5F03A&labelColor=131313" />
       <ul align="left">
         <li>Learning Mern Stack</li>
         <li>Exploring Backend Architecture</li>
