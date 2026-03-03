@@ -62,7 +62,7 @@
   </a>
 </p>
 
-> 🌆 **[Visit my GitCity →](https://www.thegitcity.com/dev/dev-abuhurera)**
+> 🌆 **[Visit my GitCity →]([https://www.thegitcity.com/dev/dev-abuhurera](https://www.thegitcity.com/dev/dev-abuhurera))**
 > 
 > GitCity transforms GitHub activity into a living virtual city — every commit, repo, and contribution builds a new block!
 
