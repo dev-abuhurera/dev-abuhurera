@@ -29,13 +29,13 @@
 
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&refresh=1" height="160" />
+    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&show_icons=true&include_all_commits=true&count_private=true&refresh=1&bg_color=131313&title_color=B5F03A&text_color=B5F03A&icon_color=B5F03A&border_color=B5F03A" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-streak-stats-custom.vercel.app/?user=dev-abuhurera&theme=tokyonight" height="160" />
+    <img src="https://github-readme-streak-stats-custom.vercel.app/?user=dev-abuhurera&background=131313&ring=B5F03A&fire=B5F03A&currStreakLabel=B5F03A&sideLabels=B5F03A&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=B5F03A" height="160" />
   </a>
   <a href="https://github.com/dev-abuhurera">
-    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=tokyonight&langs_count=8&refresh=1" height="160" />
+    <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&langs_count=8&refresh=1&bg_color=131313&title_color=B5F03A&text_color=B5F03A&border_color=B5F03A" height="160" />
   </a>
 </p>
 
