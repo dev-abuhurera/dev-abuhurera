@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
