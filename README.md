@@ -7,15 +7,18 @@
     <img src="./gitcity-dev-abuhurera-landscape.png" alt="My GitCity Card" width="600" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
     <img src="https://img.shields.io/badge/🏙️_VIEW_IN_CITY-B5F03A?style=for-the-badge&labelColor=111111&color=B5F03A" />
   </a>
 </p>
 
+---
 
-## Tech Stack
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=300&lines=⚙️+TECH+STACK" alt="Tech Stack" />
+</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5" alt="Tech Stack" />
@@ -24,7 +27,10 @@
 
 ---
 
-## GitHub Stats
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=300&lines=📊+GITHUB+STATS" alt="GitHub Stats" />
+</h2>
+
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&refresh=1" height="160" />
@@ -39,20 +45,23 @@
 
 ---
 
-## Currently Working On
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=350&lines=🎯+CURRENTLY+WORKING+ON" alt="Currently Working On" />
+</h2>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <h4>🚀 Projects</h4>
       <ul align="left">
-        <li>Buisnes website for Eden Axis</li>
-        <li>Working on the advanced Javascript concepts</li>
+        <li>Business website for Eden Axis</li>
+        <li>Working on advanced Javascript concepts</li>
       </ul>
     </td>
     <td align="center" width="50%">
       <h4>🌱 Learning</h4>
       <ul align="left">
-        <li>Learning Mern Stack</li>
+        <li>Learning MERN Stack</li>
         <li>Exploring Backend Architecture</li>
         <li>Problem Solving Challenge</li>
       </ul>
@@ -62,19 +71,20 @@
 
 ---
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=350&lines=🐍+CONTRIBUTION+SNAKE" alt="Contribution Snake" />
+</h2>
 
-
-
----
-
-## Contribution Snake
 <p align="center">
   <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
 
 ---
 
-## Connect With Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=300&lines=📡+CONNECT+WITH+ME" alt="Connect With Me" />
+</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,7 +106,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:B5F03A&height=120&section=footer&animation=twinkling" width="100%"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=7d40ff" />
+  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=B5F03A" />
 </p>
