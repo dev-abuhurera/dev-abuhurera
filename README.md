@@ -15,7 +15,7 @@
 </p>
 
 
-## ⚙️ Tech Stack
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5" alt="Tech Stack" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&refresh=1" height="160" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -64,32 +64,17 @@
 
 
 
-<!-- 
-  ========================================================
-  HOW TO ADD YOUR GITCITY CARD IMAGE:
-  
-  1. Go to: https://www.thegitcity.com/dev/dev-abuhurera
-  2. Click the "DOWNLOAD CARD" button
-  3. Save the image (e.g. gitcity-card.png)
-  4. Upload it to your GitHub repo:
-       - Go to your dev-abuhurera/dev-abuhurera repo
-       - Click "Add file" → "Upload files"
-       - Upload the image, name it: gitcity-card.png
-       - Commit it
-  5. Replace the placeholder below with your real image:
-  ========================================================
--->
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
 
 ---
 
-## 📡 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
