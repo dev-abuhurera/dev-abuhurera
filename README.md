@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## <span style="color:#111111"> Tech Stack </span>
+<span style="color:#111111"> Tech Stack </span>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
 </p>
 
 
-## <span style="color:#111111"> GitHub Stats </span>
+ <span style="color:#111111"> GitHub Stats </span>
 
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-## <span style="color:#111111"> Currently Working On </span>
+ <span style="color:#111111"> Currently Working On </span>
 
 <table align="center">
   <tr>
@@ -59,14 +59,14 @@
 
 ---
 
-## <span style="color:#111111"> Contribution Snake </span>
+<span style="color:#111111"> Contribution Snake </span>
 
 <p align="center">
   <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
 
 ---
-##  <span style="color:#111111"> Connect With Me </span>
+<span style="color:#111111"> Connect With Me </span>
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -91,4 +91,3 @@
   <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=7d40ff" />
 </p>
 
-the tach stack and futher headings give them the dark color
