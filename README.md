@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=B5F03A&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
 </h1>
+
 <p align="center">
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
     <img src="./gitcity-dev-abuhurera-landscape.png" alt="My GitCity Card" width="600" />
@@ -12,7 +13,9 @@
   </a>
 </p>
 
-<span style="color:#111111"> Tech Stack </span>
+---
+
+![Tech Stack](https://img.shields.io/badge/⚙️%20Tech%20Stack-111111?style=for-the-badge&color=111111)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,8 +23,9 @@
   </a>
 </p>
 
+---
 
- <span style="color:#111111"> GitHub Stats </span>
+![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-111111?style=for-the-badge&color=111111)
 
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
@@ -30,12 +34,14 @@
   <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-streak-stats-custom.vercel.app/?user=dev-abuhurera&theme=tokyonight" height="160" />
   </a>
- <a href="https://github.com/dev-abuhurera">
+  <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=tokyonight&langs_count=8&refresh=1" height="160" />
   </a>
 </p>
 
- <span style="color:#111111"> Currently Working On </span>
+---
+
+![Currently Working On](https://img.shields.io/badge/🎯%20Currently%20Working%20On-111111?style=for-the-badge&color=111111)
 
 <table align="center">
   <tr>
@@ -59,14 +65,16 @@
 
 ---
 
-<span style="color:#111111"> Contribution Snake </span>
+![Contribution Snake](https://img.shields.io/badge/🐍%20Contribution%20Snake-111111?style=for-the-badge&color=111111)
 
 <p align="center">
   <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
 
 ---
-<span style="color:#111111"> Connect With Me </span>
+
+![Connect With Me](https://img.shields.io/badge/📡%20Connect%20With%20Me-111111?style=for-the-badge&color=111111)
+
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -84,10 +92,11 @@
     <img src="https://img.shields.io/badge/🏙️_GitCity-B5F03A?style=for-the-badge&labelColor=111111" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=7d40ff" />
 </p>
-
