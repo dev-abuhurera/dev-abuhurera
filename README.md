@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=B5F03A&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
     <img src="./gitcity-dev-abuhurera-landscape.png" alt="My GitCity Card" width="600" />
@@ -12,25 +11,14 @@
     <img src="https://img.shields.io/badge/🏙️_VIEW_IN_CITY-B5F03A?style=for-the-badge&labelColor=111111&color=B5F03A" />
   </a>
 </p>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=300&lines=⚙️+TECH+STACK" alt="Tech Stack" />
-</h2>
-
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5" alt="Tech Stack" />
   </a>
 </p>
-
 ---
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=300&lines=📊+GITHUB+STATS" alt="GitHub Stats" />
-</h2>
-
+## GitHub Stats
 <p align="center">
  <a href="https://github.com/dev-abuhurera">
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api?username=dev-abuhurera&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&refresh=1" height="160" />
@@ -42,49 +30,35 @@
     <img src="https://github-readme-stats-phi-flame-20.vercel.app/api/top-langs/?username=dev-abuhurera&layout=compact&theme=tokyonight&langs_count=8&refresh=1" height="160" />
   </a>
 </p>
-
 ---
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=350&lines=🎯+CURRENTLY+WORKING+ON" alt="Currently Working On" />
-</h2>
-
+## Currently Working On
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <h4>🚀 Projects</h4>
       <ul align="left">
-        <li>Business website for Eden Axis</li>
-        <li>Working on advanced Javascript concepts</li>
+        <li>Buisnes website for Eden Axis</li>
+        <li>Working on the advanced Javascript concepts</li>
       </ul>
     </td>
     <td align="center" width="50%">
       <h4>🌱 Learning</h4>
       <ul align="left">
-        <li>Learning MERN Stack</li>
+        <li>Learning Mern Stack</li>
         <li>Exploring Backend Architecture</li>
         <li>Problem Solving Challenge</li>
       </ul>
     </td>
   </tr>
 </table>
-
 ---
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=350&lines=🐍+CONTRIBUTION+SNAKE" alt="Contribution Snake" />
-</h2>
-
+---
+## Contribution Snake
 <p align="center">
   <img alt="GitHub Snake" src="https://github.com/dev-abuhurera/dev-abuhurera/raw/output/snake-gold.svg" />
 </p>
-
 ---
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=B5F03A&center=true&vCenter=true&width=300&lines=📡+CONNECT+WITH+ME" alt="Connect With Me" />
-</h2>
-
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abuhurera-047577375" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -102,11 +76,11 @@
     <img src="https://img.shields.io/badge/🏙️_GitCity-B5F03A?style=for-the-badge&labelColor=111111" />
   </a>
 </p>
-
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:B5F03A&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=B5F03A" />
+  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=7d40ff" />
 </p>
+
+the tach stack and futher headings give them the dark color
