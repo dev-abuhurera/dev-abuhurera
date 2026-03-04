@@ -15,16 +15,6 @@
 
 ---
 
-![Tech Stack](https://img.shields.io/badge/⚙️%20Tech%20Stack-111111?style=for-the-badge&color=111111)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker,aws,tailwind,figma&perline=5&theme=dark" alt="Tech Stack" />
-  </a>
-</p>
-
----
-
 ![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-111111?style=for-the-badge&color=111111)
 
 <p align="center">
