@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
-    <img src="./gitcity-dev-abuhurera-landscape.png" alt="My GitCity Card" width="600" />
+    <img src="./gitcity-dev-abuhurera-landscape .png" alt="My GitCity Card" width="600" />
   </a>
 </p>
 <p align="center">
