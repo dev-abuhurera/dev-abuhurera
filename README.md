@@ -1,4 +1,8 @@
 <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=B5F03A&background=131313&center=true&vCenter=true&width=600&height=80&lines=Problem+Solver;Full-Stack+Developer;Infrastructure+%26+Security+Engineer;Automation+%26+AI+Builder"/>
+</h1>
+
+<h1 align="center">
   <img width="559" height="901" alt="image" src="https://github.com/user-attachments/assets/ea045acd-5942-4740-bcbf-afaa078f3197" />
 </h1>
 
