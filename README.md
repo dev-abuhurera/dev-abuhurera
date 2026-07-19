@@ -4,11 +4,6 @@
 
 <p align="center">
   <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
-    <img src="./gitcity-dev-abuhurera-landscape .png" alt="My GitCity Card" width="600" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.thegitcity.com/dev/dev-abuhurera" target="_blank">
     <img src="https://img.shields.io/badge/🏙️_VIEW_IN_CITY-B5F03A?style=for-the-badge&labelColor=111111&color=B5F03A" />
   </a>
 </p>
